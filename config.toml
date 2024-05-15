@@ -105,9 +105,9 @@ paginate = 5
   # Hero Settings
   [params.hero]
     enable = true
-    hero__title = "Hola, Soy Raul García"
+    hero__title = "Hola, Soy Raul"
     hero__description = "Hola, soy Raul – Developer. I'm a creative and curious person who has a lot of experience and fond moments working with design, websites, and marketing."
-    hero__image = "https://via.placeholder.com/1200x800"
+    hero__image = "/images/raul-garcia.jpg"
 
 
     #-------------------------------
