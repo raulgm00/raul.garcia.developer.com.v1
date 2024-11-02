@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fashion on Raul García</title>
+    <link>http://localhost:1313/tags/fashion/</link>
+    <description>Recent content in Fashion on Raul García</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 29 May 2022 18:05:55 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/fashion/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Everything has beauty, but not everyone can see</title>
+      <link>http://localhost:1313/posts/everything-has-beauty-but-not-everyone-can-see/</link>
+      <pubDate>Sun, 29 May 2022 18:05:55 +0300</pubDate>
+      <guid>http://localhost:1313/posts/everything-has-beauty-but-not-everyone-can-see/</guid>
+      <description>Hymnals are books with collections of musical hymns that can typically be found in churches. Prayerbooks or missals are books that contain written prayers and are commonly carried by monks, nuns, and other devoted followers or clergy. Lap books are a learning tool created by students.&#xA;There are several other types of books which are not commonly found under this system. Albums are books for holding a group of items belonging to a particular theme, such as a set of photographs, card collections, and memorabilia.</description>
+    </item>
+    <item>
+      <title>Remember that happiness is a way of travel, not a destination</title>
+      <link>http://localhost:1313/posts/remember-that-happiness-is-a-way-of-travel-not-a-destination/</link>
+      <pubDate>Fri, 24 Apr 2020 15:01:35 +0300</pubDate>
+      <guid>http://localhost:1313/posts/remember-that-happiness-is-a-way-of-travel-not-a-destination/</guid>
+      <description>Hymnals are books with collections of musical hymns that can typically be found in churches. Prayerbooks or missals are books that contain written prayers and are commonly carried by monks, nuns, and other devoted followers or clergy. Lap books are a learning tool created by students.&#xA;There are several other types of books which are not commonly found under this system. Albums are books for holding a group of items belonging to a particular theme, such as a set of photographs, card collections, and memorabilia.</description>
+    </item>
+  </channel>
+</rss>

@@ -2,7 +2,7 @@
 # General Site Settings
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "Akio"
+title = "Raul García"
 googleAnalytics = "" # Add your identifier. For example UA-99631805-1.
 paginate = 5
 
@@ -150,7 +150,7 @@ paginate = 5
   #-------------------------------
   # Newsletter Settings
   [params.mailchimp]
-    enable = true
+    enable = false
     mailchimp__identifier = "frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3" # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
     mailchimp__input__text = "Your email address..."
     mailchimp__button__text = "Subscribe" # Add your button text
