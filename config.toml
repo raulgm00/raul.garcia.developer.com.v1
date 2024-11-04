@@ -17,41 +17,29 @@ paginate = 5
 # Main Menu
 [menu]
   [[menu.main]]
-    name = "Home"
+    name = "Inicio"
     url = "/"
     weight = 1
 
   [[menu.main]]
-    name = "About"
+    name = "Sobre Mi"
     url = "/about/"
     weight = 2
 
   [[menu.main]]
-    name = "Work"
+    name = "Portafolio"
     url = "/works/"
     weight = 3
 
   [[menu.main]]
-    name = "Writing"
+    name = "Blog"
     url = "/posts/"
     weight = 4
 
   [[menu.main]]
-    name = "Pages"
-    weight = 5
-    hasChildren = true
-
-  [[menu.main]]
-    parent = "Pages"
-    name = "Contact"
-    url = "/contact/"
-    weight = 1
-
-  [[menu.main]]
-    parent = "Pages"
-    name = "Elements"
-    url = "/elements/"
-    weight = 2
+  name = "Contacto"
+  url = "/contact/"
+  weight = 5
 
 
   #-------------------------------
@@ -160,7 +148,7 @@ paginate = 5
   # Work Settings
   [params.work]
     enable = true
-    work__title= "Work"
+    work__title= "Portafolio"
     work__description= "I shows only the best websites and portfolios built completely with passion, simplicity & creativity!"
 
 
@@ -239,7 +227,7 @@ paginate = 5
   # Blog Section
   [params.blog]
     enable = true
-    blog__title = "Writing"
+    blog__title = "Blog"
     blog__description = ""
 
 
