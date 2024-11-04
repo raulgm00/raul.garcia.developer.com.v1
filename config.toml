@@ -149,7 +149,7 @@ paginate = 5
   [params.work]
     enable = true
     work__title= "Portafolio"
-    work__description= "I shows only the best websites and portfolios built completely with passion, simplicity & creativity!"
+    work__description= "Shows only the best websites and portfolios built completely with passion, simplicity & creativity!"
 
 
   #-------------------------------
