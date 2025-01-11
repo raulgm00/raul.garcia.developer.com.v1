@@ -1,4 +1,4 @@
 ---
-title: Writing
-description: Akio blog features productivity, tips, inspiration and strategies for massive profits. Find out how to set up a successful blog or how to make yours even better!
+title: Blog
+description: En mi blog, comparto conocimientos sobre desarrollo de software, arquitecturas orientadas a servicios y mejores prácticas en tecnología.
 ---
