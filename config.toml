@@ -94,7 +94,7 @@ paginate = 5
   [params.hero]
     enable = true
     hero__title = "Hola, Soy Raul"
-    hero__description = "Hola, soy Raul – Developer. I'm a creative and curious person who has a lot of experience and fond moments working with design, websites, and marketing."
+    hero__description = "Ingeniero de sistemas con más de una década de experiencia en el desarrollo de soluciones de integración, particularmente en los sectores bancario y de telecomunicaciones, aprovechando arquitecturas orientadas a servicios (SOA)."
     hero__image = "/images/raul-garcia.jpg"
 
 
