@@ -155,7 +155,7 @@ paginate = 5
   #-------------------------------
   # Testimonials Section
   [params.testimonials]
-    enable = true
+    enable = false
     testimonial__title = "Clients"
     testimonial__description = ""
 
