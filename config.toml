@@ -102,38 +102,32 @@ paginate = 5
     # Logos Settings
     [params.logos]
       enable = true
-      logos__title = "I’ve worked with some great сompanies"
+      logos__title = "He colaborado con empresas destacadas"
 
     [[params.logo_item]]
-      name = "Google"
-      link = "https://www.google.com/"
-      image = "/images/google.svg"
+      name = "Kruger"
+      link = "https://krugercorp.com/"
+      image = "/images/hero-section/kruger.svg"
 
     [[params.logo_item]]
-      name = "Spotify"
-      link = "https://www.spotify.com/"
-      image = "/images/spotify.svg"
+      name = "PLAY DIGITAL consulting"
+      link = "https://www.playdigitalconsulting.com/en"
+      image = "/images/hero-section/play.svg"
 
     [[params.logo_item]]
-      name = "Pinterest"
-      link = "https://www.pinterest.com/"
-      image = "/images/pinterest.svg"
+      name = "Ceteris"
+      link = "https://ceteris.mx/"
+      image = "/images/hero-section/ceteris.png"
 
     [[params.logo_item]]
-      name = "Netlify"
-      link = "https://www.netlify.com/"
-      image = "/images/netlify.svg"
+      name = "SOAINT"
+      link = "https://soaint.com/"
+      image = "/images/hero-section/soaint.png"
 
     [[params.logo_item]]
-      name = "Apple"
-      link = "https://www.apple.com/"
-      image = "/images/apple.svg"
-
-    [[params.logo_item]]
-      name = "Adobe"
-      link = "https://www.adobe.com/"
-      image = "/images/adobe.svg"
-
+      name = "Accenture"
+      link = "https://www.accenture.com/us-en"
+      image = "/images/hero-section/accenture.png"
 
   #-------------------------------
   # Newsletter Settings
@@ -149,7 +143,7 @@ paginate = 5
   [params.work]
     enable = true
     work__title= "Portafolio"
-    work__description= "Shows only the best websites and portfolios built completely with passion, simplicity & creativity!"
+    work__description= "Explora mis proyectos y descubre cómo puedo ayudar a transformar tus ideas en realidad"
 
 
   #-------------------------------
